@@ -3,7 +3,7 @@ package main1;
 import java.util.Scanner;
 
 public class price {
-
+//starbucksprice
     final double originalprice = 37.68;
     private double pricebeverage, priceespresso, pricedrizzle, total_price;
 
